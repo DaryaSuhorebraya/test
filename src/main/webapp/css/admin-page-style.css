@@ -1,0 +1,85 @@
+#review-chart, #user-chart{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.label-success{
+    margin-left: 30px;
+}
+.list-inline{
+    width: 500px;
+    margin-top: 30px;
+}
+.btn-danger:hover{
+    cursor: pointer;
+}
+.btn-danger{
+    float: right;
+}
+.list-group-item{
+    width: 160px;
+}
+.id-genre{
+    display: none;
+}
+.name-form-group{
+    display: inline-block;
+    margin-top: 0px;
+}
+#add-genre-form{
+    display: none;
+    margin-top: -15px;
+}
+#save-add-genre{
+    display: none;
+    float: right;
+    margin-top: 15px;
+    margin-right: 140px;
+}
+.text{
+    display:inline-block;
+}
+#form-genre-edit{
+    display: inline-block;
+    width: 130px;
+    margin-bottom: -10px;
+    margin-top: -3px;
+}
+.edit-genre{
+    background-color: white;
+    color: #337ab7;
+    float: right;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.edit-genre:hover{
+    background-color: white;
+    color: #0a19b7;
+    cursor: pointer;
+}
+.save-edit-genre{
+    color: green;
+    background-color: #fff;
+}
+.save-edit-genre:hover{
+    color: #006f00;
+    background-color: #fff;
+    cursor: pointer;
+}
+.delete-genre{
+    background-color: #fff;
+    color: #d9534f;
+}
+.delete-genre:hover{
+    background-color: #fff;
+    color: #7e3c38;
+}
+.row{
+    margin-bottom: 30px;
+}
+#message{
+    position: fixed;
+    z-index: 1;
+    width: 90%;
+    margin-left: 75px;
+}

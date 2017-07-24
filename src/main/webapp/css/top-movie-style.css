@@ -1,0 +1,62 @@
+.img-top{
+    height:75px;
+    width: 62px;
+}
+.col-sm-9{
+    margin-left: 15%;
+}
+.td-img{
+    width: 72px;
+}
+.movie-a{
+    color: #0B0A0A;
+}
+.star-rating{
+    display: none;
+}
+.rating-xs {
+    font-size: 1.2em;
+}
+.rating{
+    width: 50%;
+}
+.rating-content{
+    margin-left: 160px;
+}
+.single-star{
+    color: gold;
+    margin-right: 100px;
+    float: right;
+}
+.single-star:hover{
+    color: goldenrod;
+    cursor: pointer;
+}
+.btn-rate{
+    display: none;
+    background-color: #0ab70a;
+    border: 1px solid green;
+    margin-left: 10px;
+}
+.movie-id, #user-id {
+    display: none;
+}
+#message{
+    position: fixed;
+    z-index: 1;
+    width: 90%;
+    margin-left: 0px;
+}
+#rating{
+    text-align: center;
+}
+.btn-unrate{
+    margin-left: 240px;
+    display: none;
+    background-color: #de7b5b;
+    border-color: #da8746;
+}
+.btn-unrate:hover{
+    background-color: #ad584d;
+    border-color: #ab6b37;
+}

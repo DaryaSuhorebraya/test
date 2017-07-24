@@ -1,0 +1,76 @@
+.col-sm-9{
+    margin-left: 15%;
+}
+.actor-id{
+    display: none;
+}
+.delete-actor{
+    float: right;
+    color: #d9534f;
+}
+.delete-actor:hover{
+    color: #7e3c38;
+}
+.modal-footer-actor{
+    border-top-color: white;
+}
+.modal-header-actor{
+    border-bottom-color: white;
+}
+.img-container{
+    margin-right: 0;
+}
+.img-edit{
+    background-color: white;
+    float: left;
+}
+.initial{
+    display: inline-block;
+}
+.modal-title-actor{
+    text-align: center;
+}
+.modal-dialog-actor{
+    width: 500px;
+}
+.save-img{
+    display: none;
+    margin-top: -40px;
+    margin-left: 200px;
+}
+.content{
+    height: 230px;
+}
+.cancel-img{
+    margin-top: -40px;
+    display: none;
+    margin-left: -35px;
+}
+.form-img{
+    margin-bottom: 0px;
+    display: none;
+}
+#message{
+    position: fixed;
+    z-index: 1;
+    width: 95%;
+}
+.open-modal-edit{
+    background-color: white;
+}
+/*
+.fileinput-button {
+    position: relative;
+    overflow: hidden;
+}
+.fileinput-button input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    -ms-filter:'alpha(opacity=0)';
+    font-size: 200px;
+    direction: ltr;
+    cursor: pointer;
+}*/

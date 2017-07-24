@@ -1,0 +1,34 @@
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+   /* width:65%;
+    height:350px;
+    margin: auto;*/
+}
+#carousel{
+   /* background-image: url(/images/main/font_carousel.jpg);*/
+    margin-top: -20px;
+    height: 543px;
+    overflow: hidden;
+    width: 101.1%;
+}
+#carousel>.col-md-12{
+    width: 105%;
+}
+#error-500{
+    width:60%;
+    height:60px;
+    margin: auto;
+    padding-left: 300px;
+}
+#error-404{
+
+}
+#carousel-259970{
+    height: 540px;
+}
+#second{
+    width: 100%;
+}
+#first{
+    width: 96.5%;
+    margin-top: -15px;
+}

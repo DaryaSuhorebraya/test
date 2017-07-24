@@ -1,0 +1,112 @@
+blockquote {
+    height: inherit;
+    font-size: 13px;
+    border-left: white;
+}
+
+.quote {
+    height: 180px;
+    overflow: hidden;
+    margin-bottom: -10px;
+}
+
+.title {
+    display: inline-block;
+    margin-top: 0px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.review-container {
+    margin-top: 20px;
+    margin-left: -20px;
+}
+
+.movie-title {
+    margin-top: 25px;
+    margin-bottom: -10px;
+}
+
+.button-main {
+    border: 1px #79896D solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: -5px;
+    margin-right: 40px;
+}
+
+.button-main:hover {
+    background-color: #2e6da4;
+    text-decoration: none;
+    color: white;
+}
+
+.button-main > a:hover {
+    color: white;
+}
+
+.movie-title > a {
+    color: white;
+}
+
+h5, h6 {
+    margin-top: 0;
+    display: inline-block;
+}
+
+.quote-badge {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.quote-box {
+    height: 320px;
+    margin-bottom: -10px;
+    padding-top: -100px;
+    border-radius: 17px;
+    background-color: #4ADFCC;
+    margin-top: 25px;
+    color: white;
+    width: 325px;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+
+}
+
+.quotation-mark {
+    margin-top: -15px;
+    font-weight: bold;
+    font-size: 70px;
+    color: white;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-bottom: 15px;
+    height: 40px;
+}
+
+.quote-text {
+    font-size: 14px;
+    font-style: italic;
+    overflow: hidden;
+    height: 160px;
+}
+
+blockquote {
+    border-left: none
+}
+
+.row {
+    margin-bottom: 60px;
+}
+
+.gallery {
+    margin-top: 25px;
+}
+
+.item-image {
+    width: 90%;
+}
+
+.movie-caption > a {
+    color: #0B0A0A;
+}
+
+.blog-post-bottom > a {
+    color: white;
+}

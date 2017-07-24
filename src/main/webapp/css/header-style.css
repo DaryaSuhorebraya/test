@@ -1,0 +1,62 @@
+.btn-group-lg > .btn, .btn-lg {
+    font-size: 16px;
+    margin-top: 3px;
+}.dropdown-menu {
+    min-width: 100px;
+    background-color: #fff;
+    max-height: 200px;
+}
+.dropdown-menu > li > a{
+    color: #333;
+    background-color: #fff;
+}
+.dropdown-menu > .active > a {
+    color: #333;
+    background-color: #fff;
+}
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+.dropdown-submenu{
+    max-height: 200px;
+}
+
+
+#myModal .tab-pane .row {
+    margin: 3px 0;
+    width: 100%;
+    float: none;
+    padding: 0;
+    clear: both;
+    display: block;
+}
+#myModal .tab-pane .row label {
+    display: block;
+    float: left;
+    cursor: pointer;
+    width: 200px;
+}
+h4{
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-bottom: 20px;
+    margin: 10px auto auto;
+}
+.form-horizontal {
+    width: 60%;
+    margin: auto;
+}
+.modal-header{
+    padding-bottom: 0px;
+}
+#myModal .tab-pane .row .form-group{
+    margin-bottom: 5px;
+}
+.auth-form-group{
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+small{
+    font-size: 75%;
+}

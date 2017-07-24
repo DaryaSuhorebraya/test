@@ -1,0 +1,183 @@
+.thumbnail img {
+    width: 30%;
+}
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+.thumbnail {
+    padding: 0;
+}
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+footer {
+    margin: 50px 0;
+}
+.row{
+    margin-left: 155px;
+}
+.review, .main{
+    margin-left: 0;
+}
+.img-responsive{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+.list-group-item {
+    padding: 10px 30px;
+    border: 0;
+}
+.h4-rating{
+    display: inline;
+    margin-left: 10px;
+}
+.h4-user-rating{
+    display: inline;
+    margin-left: 10px;
+}
+.h4-title{
+    display: inline-block;
+}
+.p-rating{
+    display: inline-block;
+}
+.edit{
+    padding-left: 5px;
+    background-color: white;
+}
+.glyphicon-edit{
+    top: -2px;
+}
+#img-edit{
+    vertical-align: top;
+}
+#movie-id{
+    display: none;
+}
+#form-year{
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: -10px;
+}
+.ratings{
+    padding-left: 0;
+}
+#form-title{
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#title-text{
+    margin-bottom: -10px;
+}
+#decr-text-area{
+    width: 100%;
+    height: 200px;
+}
+#save-edit-year, #save-edit-title,
+#save-edit-description,
+#plus-genre , #save-edit-genre,
+#plus-country, #save-edit-country,
+#plus-actor, #save-edit-actor{
+    display: none;
+}
+#select-genre, #select-country, #select-actor{
+    display: none;
+    width: 120px;
+}
+#plus-genre, #plus-country, #plus-actor{
+    background-color: green;
+}
+.delete-genre, .delete-country, .delete-actor{
+    display: none;
+    background-color: #c9302c;
+    border-color: #c9302c;
+}
+.delete-genre:hover, .delete-country:hover,
+.delete-actor:hover{
+    background-color: #c9302c;
+    border-color: #c9302c;
+}
+#cancel-edit-genre, #cancel-edit-country,
+#cancel-edit-actor{
+    display: none;
+    margin-left: 10px;
+}
+#cancel-edit-year, #cancel-edit-title,
+#cancel-edit-description{
+    display: none;
+}
+#year-text{
+    color: #0B0A0A;
+}
+#year-text:hover{
+    text-decoration: none;
+    color: #0B0A0A;
+}
+#description-edit{
+    margin-top: -30px;
+}
+.bootstrap-select{
+    width: auto;
+}
+.form-img{
+    display: none;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.review-block-rate{
+    display: inline-block;
+}
+.review-title{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.review-text{
+    width: 89%;
+    font-style: italic;
+}
+#user-id{
+    display: none;
+}
+.add-review{
+    display: none;
+}
+.add-star-rating{
+    display: none;
+    margin-bottom: 15px;
+}
+#message{
+    position: fixed;
+    z-index: 1;
+    width: 90%;
+    margin-left: -150px;
+}
+.delete-review{
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+    color: #d80000;
+    margin-bottom: -20px;
+}
+.delete-review:hover{
+    cursor: pointer;
+    color: #950000;
+}
+.delete-rating{
+    cursor: pointer;
+    color: #d80000;
+    margin-right: -10px;
+}
+.delete-rating:hover{
+    cursor: pointer;
+    color: #950000;
+}
+.rate{
+    margin-left: 20px;
+}

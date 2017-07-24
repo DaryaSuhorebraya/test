@@ -1,0 +1,44 @@
+.col-md-3{
+    width: 25%;
+}
+.pull-right{
+    width:18%;
+}
+#edit,#delete,#for-ban{
+    visibility: hidden;
+}
+.col-md-9{
+    padding-left: 0px;
+}
+.well{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.caption{
+    text-align: center;
+    margin-top: 20px;
+}
+#for-ban:hover, #edit:hover, #delete:hover{
+    cursor: pointer;
+}
+.affix{
+    margin-left: -30px;
+}
+#select-user, #for-ban, #edit, #delete{
+    text-align: center;
+}
+#message{
+    position: fixed;
+    z-index: 1;
+    width: 90%;
+    margin-left: 15px;
+}
+.col-md-10{
+    margin-bottom: 60px;
+}
+.img-form{
+    margin-bottom: 30px;
+}
+#skip-3-step{
+    margin-left: 40%;
+}
